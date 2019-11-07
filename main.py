@@ -24,6 +24,12 @@ class generateRandomSeating:
 		
 		print(result)
 		return result
+	
+	def structured_output():
+		pass
+	
+	def feedback():
+		pass
 
 
 def post_to_whatsapp(message):
